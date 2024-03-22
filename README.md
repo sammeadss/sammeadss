@@ -1,5 +1,5 @@
 # 💫 About Me:
-• I'm currently a Computer Science student at the University of Miami, diving deep into the fascinating world of Data Science and Software Engineering.<br>
+• I'm currently a Computer Science student at the University of Miami, diving deep into the fascinating world of Data Science and Software   Engineering.<br>
 • Passionate about harnessing the power of •data to solve complex problems and build innovative software solutions.<br>
 • Always eager to learn and apply the latest technologies in artificial intelligence, machine learning, and full-stack •development.
 
