@@ -4,12 +4,12 @@
 • Always eager to learn and apply the latest technologies in artificial intelligence, machine learning, and full-stack •development.
 
 # 🔍 What I'm Focused On
-• Sharpening my skills in Python, R, and Java.
-• Undertaking projects that challenge me to analyze large datasets and develop scalable, efficient software.
+• Sharpening my skills in Python, R, and Java.<br>
+• Undertaking projects that challenge me to analyze large datasets and develop scalable, efficient software.<br>
 • Contributing to open-source projects that make data science and software engineering more accessible and impactful.
 
 # 🌱 Learning Journey
-• Continuously improving my understanding of data structures, algorithms, and system design to enhance my problem-solving skills.
+• Continuously improving my understanding of data structures, algorithms, and system design to enhance my problem-solving skills.<br>
 • Exploring the ethical implications of AI and machine learning, aiming to contribute to responsible and fair technology development.
 
 
