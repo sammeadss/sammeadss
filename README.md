@@ -1,7 +1,5 @@
 <h1 align="left"><pre>Welcome</pre></h1>
 
-###
-
 <pre>My name is Sam, and I'm an aspiring cybersecurity professional.</pre>
 
 ###
