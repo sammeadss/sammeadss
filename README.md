@@ -51,5 +51,3 @@ I'm currently studying computer science and delving deep into cybersecurity fund
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/sammeadss/sammeadss/output/snake.svg" alt="Snake animation" />
