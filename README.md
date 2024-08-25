@@ -8,7 +8,7 @@ My name is Sam, and I'm an aspiring cybersecurity professional.
 
 ###
 
-<h2 align="left" style="color: #00FF00; background-color: #000000; padding: 10px; font-family: 'Courier New', Courier, monospace;">About me:</h2>
+<h2 align="left" style="color: #00FF00; background-color: #000000; padding: 10px; font-family: 'Courier New', Courier, monospace;">About me</h2>
 
 ###
 
@@ -18,7 +18,7 @@ I'm currently studying computer science and delving deep into cybersecurity fund
 
 ###
 
-<h2 align="left" style="color: #00FF00; background-color: #000000; padding: 10px; font-family: 'Courier New', Courier, monospace;">I work with:</h2>
+<h2 align="left" style="color: #00FF00; background-color: #000000; padding: 10px; font-family: 'Courier New', Courier, monospace;">I work with</h2>
 
 ###
 
