@@ -2,8 +2,6 @@
 
 <pre>My name is Sam, and I'm an aspiring cybersecurity professional.</pre>
 
-###
-
 <h2 align="left"><pre>About me:</pre></h2>
 
 ###
