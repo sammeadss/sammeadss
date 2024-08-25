@@ -1,28 +1,32 @@
-<h1 align="left" style="color: #00FF00; background-color: #000000; padding: 10px; font-family: 'Courier New', Courier, monospace;">Welcome</h1>
+<h1 align="left"><pre>Welcome</pre></h1>
 
 ###
 
-<p align="left" style="color: #00FF00; background-color: #000000; padding: 10px; font-family: 'Courier New', Courier, monospace;">
-My name is Sam, and I'm an aspiring cybersecurity professional.
-</p>
+<pre>My name is Sam, and I'm an aspiring cybersecurity professional.</pre>
 
 ###
 
-<h2 align="left" style="color: #00FF00; background-color: #000000; padding: 10px; font-family: 'Courier New', Courier, monospace;">About me:</h2>
+<h2 align="left"><pre>About me:</pre></h2>
 
 ###
 
-<p align="left" style="color: #00FF00; background-color: #000000; padding: 10px; font-family: 'Courier New', Courier, monospace;">
-I'm currently studying computer science and delving deep into cybersecurity fundamentals.<br><br>My goals include sharpening my skills through personal projects, research, blog posts, and earning certifications.<br><br>I’m always open to discussing new projects, creative ideas, or collaboration opportunities. Whether you have a question, want to collaborate, or just want to say hello, feel free to reach out!<br><br>"He who has a why to live can bear almost any how." - Friedrich Nietzsche, 1889
-</p>
+<pre>
+I'm currently studying computer science and delving deep into cybersecurity fundamentals.
+
+My goals include sharpening my skills through personal projects, research, blog posts, and earning certifications.
+
+I’m always open to discussing new projects, creative ideas, or collaboration opportunities. Whether you have a question, want to collaborate, or just want to say hello, feel free to reach out!
+
+"He who has a why to live can bear almost any how." - Friedrich Nietzsche, 1889
+</pre>
 
 ###
 
-<h2 align="left" style="color: #00FF00; background-color: #000000; padding: 10px; font-family: 'Courier New', Courier, monospace;">I work with:</h2>
+<h2 align="left"><pre>I work with:</pre></h2>
 
 ###
 
-<div align="left" style="color: #00FF00; background-color: #000000; padding: 10px; font-family: 'Courier New', Courier, monospace;">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -43,11 +47,3 @@ I'm currently studying computer science and delving deep into cybersecurity fund
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img height="200" src="https://media3.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif?cid=6c09b9528jbs8p5rnf409iyoghidlrgjkme5gqvggwmpagqj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-###
