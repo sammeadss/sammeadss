@@ -49,11 +49,3 @@ I'm currently studying computer science and delving deep into cybersecurity fund
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img height="200" src="https://media3.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif?cid=6c09b9528jbs8p5rnf409iyoghidlrgjkme5gqvggwmpagqj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-###
