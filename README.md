@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left" style="color: #00FF00; background-color: #000000; padding: 10px; font-family: 'Courier New', Courier, monospace;">
-My name is Sam, and I'm an aspiring cybersecurity professional.
+<p align="left" style="color: #00FF00; background-color: #000000; padding: 10px; style="font-family: Verdana, sans-serif;">
+My name is Sam, I'm an undergraduate at the University of Miami studying Computer Science.
 </p>
 
 ###
@@ -12,8 +12,8 @@ My name is Sam, and I'm an aspiring cybersecurity professional.
 
 ###
 
-<p align="left" style="color: #00FF00; background-color: #000000; padding: 10px; font-family: 'Courier New', Courier, monospace;">
-I'm currently studying computer science and delving deep into cybersecurity fundamentals.<br><br>My goals include sharpening my skills through personal projects, research, and earning certifications.<br><br>I’m always open to discussing new projects, creative ideas, or collaboration opportunities. Whether you have a question, want to collaborate, or just want to say hello, feel free to reach out!<br><br>"He who has a why to live can bear almost any how." - Friedrich Nietzsche, 1889
+<p align="left" style="color: #00FF00; background-color: #000000; padding: 10px; style="font-family: Verdana, sans-serif;">
+I'm currently a Software Developer for Powerhouse Gym SoFlo in Miami Florida. My experience is in full-stack development, 
 </p>
 
 ###
